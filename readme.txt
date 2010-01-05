@@ -10,7 +10,7 @@ Fetches Events from Upcoming.org by location via shortcode.
 == Description ==
 
 This plugin is very simple. It fetches events from upcoming.org based on a given location. You need the (free) upcoming.org API key which you can find here: http://upcoming.yahoo.com/services/api/keygen.php
-To include the local events, use this shortcode in a post/page: [upcoming.org_events]San Francisco, CA[/upcoming.org_events]. You can use other formats of locations as well, such as ZIP codes.
+To include the local events, use this shortcode in a post/page: [upcomingorg_events]San Francisco, CA[/upcomingorg_events]. You can use other formats of locations as well, such as ZIP codes.
 In the settings you can define:
 
 <ul>
