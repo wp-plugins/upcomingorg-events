@@ -38,3 +38,6 @@ To edit the CSS, modify the upcoming.org_events.css file in the plugin folder up
 
 = 1.0 =
 * First version
+
+= 1.0.1 =
+* Minor fixes related to url format of plugin actually being available :)
