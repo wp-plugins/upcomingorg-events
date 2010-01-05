@@ -2,9 +2,9 @@
 /*
 Plugin Name: Upcoming.org Public Events by Location
 Plugin URI: http://priedel.com/wpplugins/upcoming.org_events
-Description: Very simple: Fetches events from Upcoming.org by location via shortcode: [upcoming.org_events]San Francisco, CA[/upcoming.org_events]. Check the "Upcoming.org Events"-settings page for some options.
+Description: Very simple: Fetches events from Upcoming.org by location via shortcode: [upcomingorg_events]San Francisco, CA[/upcomingorg_events]. Check the "Upcoming.org Events"-settings page for some options.
 Author: Paul Riedel
-Version: 1.0
+Version: 1.0.1
 Author URI: http://priedel.com
 */
 
