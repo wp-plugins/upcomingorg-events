@@ -3,7 +3,7 @@ Contributors:
 Tags: upcoming, upcoming.org, events, local, local events, public events
 Requires at least:
 Tested up to: 2.8
-Stable tag:
+Stable tag: trunk
 
 Fetches Events from Upcoming.org by location via shortcode.
 
