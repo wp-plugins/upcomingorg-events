@@ -231,7 +231,7 @@ endif;
 	}
 }
 
-add_shortcode('upcoming.org_events', 'show_upcoming_events');
+add_shortcode('upcomingorg_events', 'show_upcoming_events');
 
 
 
@@ -239,11 +239,12 @@ add_shortcode('upcoming.org_events', 'show_upcoming_events');
 
 
     function add_upcoming_events_css() {
-        $myStyleUrl = WP_PLUGIN_URL . '/upcoming.org_events/upcoming.org_events.css';
-        $myStyleFile = WP_PLUGIN_DIR . '/upcoming.org_events/upcoming.org_events.css';
+	
+        $myStyleUrl = WP_PLUGIN_URL . '/upcomingorg-events/upcoming.org_events.css';
+        $myStyleFile = WP_PLUGIN_DIR . '/upcomingorg-events/upcoming.org_events.css';
         if ( file_exists($myStyleFile) ) {
             wp_register_style('upcoming.org_events_css', $myStyleUrl);
-            wp_enqueue_style( 'upcoming.org_events_css');
+            wp_enqueue_style('upcoming.org_events_css');
         }
     }
 
