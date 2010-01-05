@@ -13,13 +13,15 @@ This plugin is very simple. It fetches events from upcoming.org based on a given
 To include the local events, use this shortcode in a post/page: [upcoming.org_events]San Francisco, CA[/upcoming.org_events]. You can use other formats of locations as well, such as ZIP codes.
 In the settings you can define:
 
-* Number of events to show (will obviously be lower if not that many events are available for your query).
+<ul>
+<li> Number of events to show (will obviously be lower if not that many events are available for your query).</li>
 
-* Radius to search around the given location
+<li> Radius to search around the given location</li>
 
-* Show (or don't show) the event images if they are available 
+<li> Show (or don't show) the event images if they are available</li> 
 
-* Display the upcoming.org logo with the results or not
+<li> Display the upcoming.org logo with the results or not</li>
+</ul>
 
 To edit the CSS, modify the upcoming.org_events.css file in the plugin folder upcoming.org_events/
 
